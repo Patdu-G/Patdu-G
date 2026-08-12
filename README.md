@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi, I'm Patrio, a computer science student with a passion for building things on the web. I work across the full stack, using PHP, HTML, CSS, JavaScript, Python, and Bootstrap, with some C++ experience as well. Beyond web development, I have a strong interest in AI/ML and cybersecurity, and I've participated in several CTF competitions to sharpen my security skills. I also have a working knowledge of networking fundamentals. I'm currently expanding my skill set by learning how to properly deploy and host web applications.
+Hi, I'm Patrio, an Information Technology student with a passion for building things on the web. I work across the full stack, using PHP, HTML, CSS, JavaScript, Python, and Bootstrap, with some C++ experience as well. Beyond web development, I have a strong interest in AI/ML and cybersecurity, and I've participated in several CTF competitions to sharpen my security skills. I also have a working knowledge of networking fundamentals. I'm currently expanding my skill set by learning how to properly deploy and host web applications.
 
 ---
 
@@ -17,13 +17,13 @@ Hi, I'm Patrio, a computer science student with a passion for building things on
 
 <p align="center">
   <a href="https://github.com/Patdu-G/Patdu-G.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patdu-G&repo=Patdu-G.github.io&theme=default" alt="Patdu-G.github.io"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Patdu-G&repo=Patdu-G.github.io&theme=tokyonight&hide_border=true" alt="Patdu-G.github.io"/>
   </a>
   <a href="https://github.com/Liam-yam/cruise-webphp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liam-yam&repo=cruise-webphp&theme=default" alt="cruise-webphp"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Liam-yam&repo=cruise-webphp&theme=tokyonight&hide_border=true" alt="cruise-webphp"/>
   </a>
   <a href="https://github.com/Liam-yam/survAIval">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liam-yam&repo=survAIval&theme=default" alt="survAIval"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Liam-yam&repo=survAIval&theme=tokyonight&hide_border=true" alt="survAIval"/>
   </a>
 </p>
 
@@ -45,7 +45,7 @@ To feature a repo you contributed to but don't own, go to your profile → "Cust
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patdu-G&show_icons=true&theme=tokyonight&hide_border=true" alt="Patdu-G's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Patdu-G&show_icons=true&theme=tokyonight&hide_border=true" alt="Patdu-G's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patdu-G&theme=tokyonight&hide_border=true" alt="Patdu-G's streak stats" height="165"/>
 </p>
 
