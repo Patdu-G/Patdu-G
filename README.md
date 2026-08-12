@@ -19,44 +19,34 @@ Hi, I'm Patrio, a computer science student with a passion for building things on
   <a href="https://github.com/Patdu-G/Patdu-G.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patdu-G&repo=Patdu-G.github.io&theme=default" alt="Patdu-G.github.io"/>
   </a>
+  <a href="https://github.com/Liam-yam/cruise-webphp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liam-yam&repo=cruise-webphp&theme=default" alt="cruise-webphp"/>
+  </a>
+  <a href="https://github.com/Liam-yam/survAIval">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liam-yam&repo=survAIval&theme=default" alt="survAIval"/>
+  </a>
 </p>
 
 <!--
 More projects will show here as they're added.
-To feature a repo, go to your profile → "Customize your pins" and select up to 6.
+To feature a repo you contributed to but don't own, go to your profile → "Customize your pins" and select up to 6.
 -->
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Core**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frameworks & Tools**
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino Uno](https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Interests**
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-4A90D9?style=for-the-badge&logo=cisco&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,arduino,py,cpp,git,github,vscode,figma&theme=dark" alt="Tech stack icons" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patdu-G&show_icons=true&theme=default&hide_title=false" alt="Patdu-G's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patdu-G" alt="Patdu-G's streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Patdu-G&show_icons=true&theme=tokyonight&hide_border=true" alt="Patdu-G's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patdu-G&theme=tokyonight&hide_border=true" alt="Patdu-G's streak stats" height="165"/>
 </p>
 
 ---
