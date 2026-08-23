@@ -1,19 +1,42 @@
 <h1 align="center">Hi, I'm Patrio 👋</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Explorer</h3>
+<h3 align="center">Information Technology Student • Cybersecurity Focus • Full-Stack & AI/ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+websites+one+commit+at+a+time;Diving+into+AI+%2F+ML;Breaking+things+in+CTFs+(legally);Learning+to+deploy+like+a+pro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+secure+systems+one+commit+at+a+time;Training+ML+models+to+catch+phishing+emails;Exploring+networks+and+CTFs;Learning+to+deploy+like+a+pro" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/patrio-gabriel-patdu-5a26b0330/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:patriogabrielpatdu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/gbrlpat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/patrio.patdu.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+</p>
 
-### 🧑‍💻 About Me
+<br>
 
-Hi, I'm Patrio, an Information Technology student with a passion for building things on the web. I work across the full stack, using PHP, HTML, CSS, JavaScript, Python, and Bootstrap, with some C++ experience as well. Beyond web development, I have a strong interest in AI/ML and cybersecurity, and I've participated in several CTF competitions to sharpen my security skills. I also have a working knowledge of networking fundamentals. I'm currently expanding my skill set by learning how to properly deploy and host web applications.
+## About Me
 
----
+I'm a 3rd-year BSIT student, working toward a career in cybersecurity while staying active across the rest of the stack. My day-to-day spans web development (PHP, JavaScript, Bootstrap), backend and scripting work (Python, C++), and networking fundamentals — with security research and CTF practice tying it all together.
 
-### 📌 Pinned Projects
+Right now I'm focused on applying machine learning to security problems, currently building a phishing email classifier that combines traditional ML with local LLM reasoning.
+
+- 🔭 Currently building an ML-based phishing email classifier with local LLM explainability
+- 🌱 Deepening my knowledge of applied cybersecurity, threat detection, and secure deployment
+- 🎯 Working toward a professional path in cybersecurity
+- 💬 Ask me about phishing detection, Python, or web dev with PHP
+
+<br>
+
+## Featured Project
+
+**[Email Phishing Classifier with AI Integration](https://github.com/Patdu-G/Email-Phishing-Classifier-with-AI-Integration)**
+A machine learning pipeline that analyzes raw `.eml` files to detect phishing emails, built incrementally from scratch. It parses email headers and MIME content, engineers features like authentication-header scoring (SPF/DKIM/DMARC), tiered urgency-keyword detection, and link-text/href mismatch detection, then feeds them into a logistic regression classifier. A local LLM (via Ollama) is being integrated to generate human-readable explanations for each classification.
+
+`Python` `scikit-learn` `Ollama` `pandas`
+
+<br>
+
+## Other Projects
 
 <p align="center">
   <a href="https://github.com/Patdu-G/Patdu-G.github.io">
@@ -27,39 +50,23 @@ Hi, I'm Patrio, an Information Technology student with a passion for building th
   </a>
 </p>
 
-<!--
-More projects will show here as they're added.
-To feature a repo you contributed to but don't own, go to your profile → "Customize your pins" and select up to 6.
--->
+<br>
 
----
-
-### 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,arduino,py,cpp,git,github,vscode,figma&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,py,cpp,arduino,git,github,vscode,figma&theme=dark" alt="Tech stack icons" />
 </p>
 
----
+<br>
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Patdu-G&show_icons=true&theme=tokyonight&hide_border=true" alt="Patdu-G's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patdu-G&theme=tokyonight&hide_border=true" alt="Patdu-G's streak stats" height="165"/>
 </p>
 
----
+<br>
 
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/patrio-gabriel-patdu-5a26b0330/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/gbrlpat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/patrio.patdu.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:patriogabrielpatdu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><i>Curious by nature, I enjoy learning across the stack, from writing clean interfaces to solving the problems behind them.</i></p>
+<p align="center"><i>Curious by nature — I enjoy learning across the stack, from writing clean interfaces to solving the security problems behind them.</i></p>
