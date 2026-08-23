@@ -39,6 +39,9 @@ A machine learning pipeline that analyzes raw `.eml` files to detect phishing em
 ## Other Projects
 
 <p align="center">
+  <a href="https://github.com/Patdu-G/Email-Phishing-Classifier-with-AI-Integration">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Patdu-G&repo=Email-Phishing-Classifier-with-AI-Integration&theme=tokyonight&hide_border=true" alt="Email-Phishing-Classifier-with-AI-Integration"/>
+  </a>
   <a href="https://github.com/Patdu-G/Patdu-G.github.io">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Patdu-G&repo=Patdu-G.github.io&theme=tokyonight&hide_border=true" alt="Patdu-G.github.io"/>
   </a>
@@ -49,6 +52,17 @@ A machine learning pipeline that analyzes raw `.eml` files to detect phishing em
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Liam-yam&repo=survAIval&theme=tokyonight&hide_border=true" alt="survAIval"/>
   </a>
 </p>
+
+<br>
+
+## Popular Repositories
+
+| Repo | Description |
+|---|---|
+| [Email-Phishing-Classifier-with-AI-Integration](https://github.com/Patdu-G/Email-Phishing-Classifier-with-AI-Integration) | ML pipeline for detecting phishing emails, with local LLM-based explainability |
+| [Patdu-G.github.io](https://github.com/Patdu-G/Patdu-G.github.io) | Personal portfolio site with a dark terminal aesthetic |
+| [cruise-webphp](https://github.com/Liam-yam/cruise-webphp) | PHP cruise line website project |
+| [survAIval](https://github.com/Liam-yam/survAIval) | PHP/XAMPP disaster risk monitoring system |
 
 <br>
 
