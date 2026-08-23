@@ -39,9 +39,6 @@ A machine learning pipeline that analyzes raw `.eml` files to detect phishing em
 ## Other Projects
 
 <p align="center">
-  <a href="https://github.com/Patdu-G/Email-Phishing-Classifier-with-AI-Integration">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Patdu-G&repo=Email-Phishing-Classifier-with-AI-Integration&theme=tokyonight&hide_border=true" alt="Email-Phishing-Classifier-with-AI-Integration"/>
-  </a>
   <a href="https://github.com/Patdu-G/Patdu-G.github.io">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Patdu-G&repo=Patdu-G.github.io&theme=tokyonight&hide_border=true" alt="Patdu-G.github.io"/>
   </a>
