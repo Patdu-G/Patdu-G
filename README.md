@@ -16,14 +16,14 @@
 
 ## About Me
 
-I'm a 3rd-year BSIT student, working toward a career in cybersecurity while staying active across the rest of the stack. My day-to-day spans web development (PHP, JavaScript, Bootstrap), backend and scripting work (Python, C++), and networking fundamentals — with security research and CTF practice tying it all together.
+I'm a 3rd-year Information Technology student specializing in cybersecurity, with hands-on experience across web development (PHP, JavaScript, Bootstrap), backend engineering (Python, C++), and networking fundamentals. I complement this technical breadth with security research and active participation in CTF competitions.
 
-Right now I'm focused on applying machine learning to security problems, currently building a phishing email classifier that combines traditional ML with local LLM reasoning.
+My current work centers on applying machine learning to security challenges — specifically, developing a phishing email classifier that integrates traditional ML techniques with local LLM-based reasoning for explainability.
 
-- 🔭 Currently building an ML-based phishing email classifier with local LLM explainability
-- 🌱 Deepening my knowledge of applied cybersecurity, threat detection, and secure deployment
-- 🎯 Working toward a professional path in cybersecurity
-- 💬 Ask me about phishing detection, Python, or web dev with PHP
+- 🔭 **Current Project:** ML-based phishing email classifier with local LLM explainability
+- 🌱 **Areas of Focus:** Applied cybersecurity, threat detection, and secure deployment practices
+- 🎯 **Career Objective:** Pursuing a professional path in cybersecurity
+- 💬 **Open to Discussing:** Phishing detection, Python development, and PHP-based web applications
 
 <br>
 
