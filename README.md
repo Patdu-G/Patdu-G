@@ -20,10 +20,10 @@ I'm a 3rd-year Information Technology student specializing in cybersecurity, wit
 
 My current work centers on applying machine learning to security challenges — specifically, developing a phishing email classifier that integrates traditional ML techniques with local LLM-based reasoning for explainability.
 
-**Current Project:** ML-based phishing email classifier with local LLM explainability
-**Areas of Focus:** Applied cybersecurity, threat detection, and secure deployment practices
-**Career Objective:** Pursuing a professional path in cybersecurity
-**Open to Discussing:** Phishing detection, Python development, and PHP-based web applications
+- **Current Project:** ML-based phishing email classifier with local LLM explainability
+- **Areas of Focus:** Applied cybersecurity, threat detection, and secure deployment practices
+- **Career Objective:** Pursuing a professional path in cybersecurity
+- **Open to Discussing:** Phishing detection, Python development, and PHP-based web applications
 
 <br>
 
